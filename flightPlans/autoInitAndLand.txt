@@ -1,2 +1,2 @@
-autoInit 500 800 4000 4.05
+autoInit 500 800
 land
